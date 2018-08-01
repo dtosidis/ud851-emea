@@ -51,3 +51,32 @@
 
   author_location: Namur, Belgium
   author_avatar: https://i.imgur.com/MHb0Tsp.jpg
+
+- name: ShopApp
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/dtosidis/shopapp
+   description: |
+    The app provides the functionality of an e-shop management app. The user can see all the available
+    products, order new, sell them, delete them, put the price, suppplier and his phone number and also call
+    the supplier by the given phone number.
+   author: Dimitrios Tosidis
+   author_avatar: https://gravatar.com/avatar/6ffae0ec2c042272b937fc3fcb79fdf3?s=512&d=https://codepen.io/assets/avatars/user-avatar-512x512-6e240cf350d2f1cc07c2bed234c3a3bb5f1b237023c204c782622e80d6b212ba.png
+   author_location: Munich, Germany
+   auhtor_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://de.linkedin.com/in/dimitrios-tosidis-4741ab4
+    - title: XING
+      icon: xing
+      url: https://www.xing.com/profile/Dimitrios_Tosidis
+    - title: Twitter
+      icon: twitter
+      url: https://twitter.com/tosidis
+    - title: Github
+      icon: github
+      url: https://github.com/dtosidis
+    - title: YouTube
+      icon: youtube
+      url: https://www.youtube.com/channel/UCpuPwatF2FXj3p-8eUEOpZw
