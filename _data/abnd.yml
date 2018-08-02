@@ -71,3 +71,24 @@
 
   author_location: Mont-de-Marsan, France
   author_avatar: https://i.imgur.com/BhtwOK4.jpg
+
+- name: News Feed
+  banner: http://icons.iconarchive.com/icons/martz90/circle/256/guardian-icon.png
+  links:
+    - title: Github
+      icon: github
+      url: https://github.com/dtosidis/newsfeed
+    - title: Youtube
+      icon: youtube
+      url: https://www.youtube.com/watch?v=pvNDF5WcQNg
+
+  description: News feed app that presents the latest news from the Guardian portal and redirects to the actual subject
+  author: Dimitrios Tosidis
+  author_location: Munich, Germany
+  auhtor_links:
+    - title: LinkedIn
+      icon: linkedin
+      url: https://de.linkedin.com/in/dimitrios-tosidis-4741ab4
+    - title: Github
+      icon: github
+      url: https://github.com/dtosidis
